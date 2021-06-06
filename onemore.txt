@@ -1,0 +1,20 @@
+test dat afor
+fdsjhf
+lorem ipsum 
+
+
+<table width='100%' bgcolor='#ffffff' cellspacing='0' cellpadding='0' border='0' style='border-collapse:collapse;margin-top:15px'>
+	<tbody>
+		<tr>
+			<td align='left'>
+				<div style='width:50%'>
+					<a href='https://boringnews.co/' target='_blank'> 
+						<img src='https://s3.ap-south-1.amazonaws.com/boringnews.co/assets/images/email_logo_6.png'
+							style='max-width: 100%; max-height: 100%;'
+							alt='company-logo'/> 
+					</a>
+				</div>
+			</td>
+		</tr>
+	</tbody>
+</table>
