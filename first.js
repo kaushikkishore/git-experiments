@@ -10,7 +10,7 @@ console.log('fifth fifth commit on the feature branch.');
 
 console.log('sixth commit on the feature branch.');
 
-console.log('seven commit on the feature branch.');
+console.log('seven seven commit on the feature branch.');
 
 console.log('eight commit on the feature branch.');
 
