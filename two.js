@@ -7,3 +7,5 @@ console.log('third master change');
 console.log('forth master change');
 
 console.log('fifth master change');
+
+console.log('sixth feature two changes');
