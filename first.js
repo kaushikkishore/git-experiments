@@ -1,6 +1,6 @@
 console.log('first first commit on the feature branch.');
 
-console.log('second commit on the feature branch.');
+console.log('second second commit on the feature branch.');
 
 console.log('third third commit on the feature branch.');
 
