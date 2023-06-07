@@ -16,7 +16,7 @@ console.log('eight eight commit on the feature branch.');
 
 console.log('nine nine commit on the feature branch.');
 
-console.log('ten commit on the feature branch.');
+console.log('ten ten commit on the feature branch.');
 
 console.log('thirteen commit on the feature branch.');
 
