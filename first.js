@@ -4,7 +4,7 @@ console.log('second second commit on the feature branch.');
 
 console.log('third third commit on the feature branch.');
 
-console.log('fourth commit on the feature branch.');
+console.log('fourth fourth commit on the feature branch.');
 
 console.log('fifth fifth commit on the feature branch.');
 
