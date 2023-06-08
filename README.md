@@ -110,3 +110,9 @@ configure VS code to use as visual editor. As a lot of people are not confirtabl
 ```
 git config --global core.editor "code --wait"
 ```
+
+To set vim as core editor use the following command 
+
+```
+git config --global core.editor "vim"
+```
