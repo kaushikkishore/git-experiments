@@ -106,6 +106,7 @@ in your VS code. This plugin is developed and maintain by GitKraken
 
 configure VS code to use as visual editor. As a lot of people are not confirtable using the `vim`
 
+
 ```
 git config --global core.editor "code --wait"
 ```
