@@ -117,7 +117,7 @@ To set vim as core editor use the following command
 git config --global core.editor "vim"
 ```
 
-To know the base hash from where you created your branch 
+### To know the base hash from where you created your branch 
 
 ```
 git merge-base HEAD main 
