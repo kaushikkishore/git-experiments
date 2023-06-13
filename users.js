@@ -5,3 +5,7 @@ function get() {
 function getAddress() {
     // Get the user address
 }
+
+function setUserName(name) {
+    // Set the username 
+}
