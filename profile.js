@@ -1,7 +1,11 @@
-function getProfile() {
+function get() {
     // Get the profile data
 }
 
-function createProfile(profile) {
+function create(profile) {
     // Create a profile here
+}
+
+function update(id, profile) {
+    // update the profile data now. 
 }
