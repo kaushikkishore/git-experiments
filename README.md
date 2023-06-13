@@ -32,6 +32,30 @@ make sure you do the force push in your branch
 
 Prefer this before doing any merge to main branch. This will help in maintaining a clean history of the source code. 
 
+## setting up VS code to do the git rebasing & squashing 
+
+Install plugin [`GitLens`](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+in your VS code. This plugin is developed and maintain by GitKraken
+
+configure VS code to use as visual editor. As a lot of people are not confirtable using the `vim`
+
+
+```
+git config --global core.editor "code --wait"
+```
+
+To set vim as core editor use the following command 
+
+```
+git config --global core.editor "vim"
+```
+
+### To know the base hash from where you created your branch 
+
+```
+git merge-base HEAD main 
+```
+
 
 ### here are some most frequent used git alias. 
 ```
@@ -99,26 +123,3 @@ alias: count
 command: "!git shortlog -s --grep"
 ```
 
-## setting up VS code to do the git rebasing & squashing 
-
-Install plugin [`GitLens`](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-in your VS code. This plugin is developed and maintain by GitKraken
-
-configure VS code to use as visual editor. As a lot of people are not confirtable using the `vim`
-
-
-```
-git config --global core.editor "code --wait"
-```
-
-To set vim as core editor use the following command 
-
-```
-git config --global core.editor "vim"
-```
-
-### To know the base hash from where you created your branch 
-
-```
-git merge-base HEAD main 
-```
