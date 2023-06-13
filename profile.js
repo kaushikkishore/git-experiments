@@ -9,3 +9,7 @@ function create(profile) {
 function update(id, profile) {
     // update the profile data now. 
 }
+
+function remove(id) {
+    // Delete the profile
+}
